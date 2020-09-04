@@ -10,6 +10,8 @@
 
 ### **사용 데이터 목록**
 **[DACON 제공 데이터]**
+
+https://dacon.io/competitions/official/235622/data/
 - DS4C 코로나19 확진자 데이터 
   - Time.csv
   - PatientInfo.csv
