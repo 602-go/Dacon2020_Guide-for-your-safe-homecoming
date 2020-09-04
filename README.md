@@ -2,7 +2,7 @@
 
 데이콘 **[국토교통 빅데이터 온라인 해커톤 경진대회](https://dacon.io/competitions/official/235622/overview/)**
 
-제출한 원본 코드는 **포스트 코로나, 귀향길이 걱정되는 당신을 위한 <안전한 귀향 안내서>(https://dacon.io/competitions/official/235622/codeshare/1621?page=2&dtype=recent&ptype=pub)** 에서 확인하실 수 있으며, 해당 레포는 이 중  **[안전한 귀향을 위한 안내서]** 를 직접 실행해보실 수 있도록 파일을 구성한 레포입니다.
+분석과정을 담은 제출 파일 원본은 **포스트 코로나, 귀향길이 걱정되는 당신을 위한 <안전한 귀향 안내서>(https://dacon.io/competitions/official/235622/codeshare/1621?page=2&dtype=recent&ptype=pub)** 에서 확인하실 수 있으며, 해당 레포는 이 중  **[안전한 귀향을 위한 안내서]** 를 직접 실행해보실 수 있도록 파일을 구성한 레포입니다.
 
 안내서를 직접 출력해보시기 위해서는 원본 데이터를 받아 몇가지 전처리 과정을 거쳐야 하며, 그 과정은 **안전한 귀향을 위한 안내서.ipynb**에 포함되어 있습니다.
 
