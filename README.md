@@ -1,7 +1,8 @@
-# Guide-for-your-safe-homecoming
-## 포스트 코로나, 귀향길이 걱정되는 당신을 위한 <안전한 귀향 안내서>
+# 포스트 코로나, 귀향길이 걱정되는 당신을 위한 <안전한 귀향 안내서>
 
 ### 데이콘 **[국토교통 빅데이터 온라인 해커톤 경진대회](https://dacon.io/competitions/official/235622/overview/)**
+
+<br>
 
 분석과정을 담은 제출 파일 원본은 **[이 곳](https://dacon.io/competitions/official/235622/codeshare/1621?page=2&dtype=recent&ptype=pub)** 에서 확인하실 수 있으며, 해당 레포는 이 중  **[안전한 귀향을 위한 안내서]** 를 직접 실행해보실 수 있도록 파일을 구성한 레포입니다.
 
