@@ -37,3 +37,6 @@ https://dacon.io/competitions/official/235622/data/
 
 ---
 
+### Contributing
+
+[YooKyung Kho](http://github.com/602-go)(Team Leader), d
