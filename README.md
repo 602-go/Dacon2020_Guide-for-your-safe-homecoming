@@ -37,6 +37,6 @@ https://dacon.io/competitions/official/235622/data/
 
 ---
 
-### Team Members
+### Team **ToMiddles**
 
 [고유경](http://github.com/602-go)(팀장), [강미경](https://github.com/gyeong707), [이유민](https://github.com/yourmean), [최혜빈](https://github.com/lilly9117), [김민정](https://github.com/kmmnjng528)
