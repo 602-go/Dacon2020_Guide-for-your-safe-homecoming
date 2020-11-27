@@ -17,7 +17,7 @@
 ---
 
 ### **데이터 목록**
-**[DACON 제공 데이터]** [download link](https://dacon.io/competitions/official/235622/data/)
+[**DACON 제공 데이터**](https://dacon.io/competitions/official/235622/data/)
 - [한국교통안전공단] 교통카드 빅데이터 대중교통 이용정보
     - 발권 OD.dat
     - 지역코드.dat
